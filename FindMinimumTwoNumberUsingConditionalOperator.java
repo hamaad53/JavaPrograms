@@ -1,4 +1,4 @@
-public class JavaFindMinimumTwoNumberUsingConditionalOperator {
+public class FindMinimumTwoNumberUsingConditionalOperator {
 
 	public static void main(String args[]) {
 
