@@ -1,6 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
   
-class GrnerateNumber {
+class GenerateNumber {
   
     public static int getRandomValue(int Min, int Max)
     {
